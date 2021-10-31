@@ -1,0 +1,12 @@
+{"Employees":[{"Name":"Bisma Shiekh",
+    "salary":34000
+},{"Name":"Razia Shiekh","salary":230000},{
+    "Name":"Nargis Shiekh", "salary":250000
+},{
+    "Name":"Sheetal Verma", "salary":650000
+},
+{"Name":"Anshika Verma", "salary":150000},
+{"Name":"Nuzhat Meer", "salary":750000},
+{"Name":"Sajaad Meer", "salary":950000}
+]
+}
